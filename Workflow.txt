@@ -1,0 +1,13 @@
+Raw Data
+
+- Data Understanding
+- Cleaning
+- EDA
+- Feature Engineering
+- Modeling
+- Evaluation
+- Interpretation
+- Prediction
+
+Data Understanding:
+- I hve first 
