@@ -10,4 +10,9 @@ Raw Data
 - Prediction
 
 Data Understanding:
-- I hve first 
+- I hve first loaded the train data and the test data using pandas
+- I have also made used the .info and .describe methods to understand the data
+- I see that the data doesn't have any missing values
+- I do understand that the data type of the column "Heart Disease" is string 
+- The data type of column "ST depression" is float and the rest is int64
+- 
